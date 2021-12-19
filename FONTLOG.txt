@@ -1,0 +1,30 @@
+FONTLOG for Rinnet font.
+
+This file provides detailed information on the Rinnet font.
+This information should be distributed along with the Rinnet font(s) and any
+derivative works.
+
+
+Basic Font Information
+
+Sewaka Sans & Sewaka Display is a typeface family designed for Denpasar Smart City visual communication. This typeface is labeled as open source which can be used and developed by anyone.
+
+To contribute to the project, Please see <a href="https://github.com/budapatrayasa/Sewaka-Typeface-Family/</a>
+
+ChangeLog
+
+20 December 2021 (Buda Patrayasa) Sewaka Sans & Sewaka Display v1.000
+- Open sourced.
+- First public released.
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N),
+email (E), web-address (if you have one) (W) and
+description (D). This list is in alphabetical order.
+
+N: Buda Patrayasa
+E: odoxproject@gmail.com
+W: instagram.com/budapatrayasa
+D: Original designer
