@@ -10,7 +10,7 @@
 
 To contribute to the project, Please see <a href="https://github.com/budapatrayasa/Sewaka-Typeface-Family">https://github.com/budapatrayasa/Sewaka-Typeface-Family</a>
 ## Current Version
-- Version 1.000 First public release with with two styles (Display & Text).
+- Version 1.000 First public release with with two styles (Display & Sans Serif).
 
 ### [↓ Download the latest release ↓](https://github.com/budapatrayasa/Sewaka-Typeface-Family/releases/)
 
