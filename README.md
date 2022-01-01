@@ -25,7 +25,7 @@ After downloading the zip from above:
 
 ## Contribution
 
-If you want to contribute to develop improvements of this font family, you can fork this project and create an issue or email us at abc@tokotypefaces.com
+If you want to contribute to develop improvements of this font family, you can fork this project and create an issue or email me at odoxproject@gmail.com
 
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
